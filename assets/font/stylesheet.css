@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Basquiat';
+    src: url('Basquiat.eot');
+    src: url('Basquiat.eot?#iefix') format('embedded-opentype'),
+        url('Basquiat.woff2') format('woff2'),
+        url('Basquiat.woff') format('woff'),
+        url('Basquiat.ttf') format('truetype'),
+        url('Basquiat.svg#Basquiat') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
