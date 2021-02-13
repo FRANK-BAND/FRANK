@@ -36,6 +36,9 @@ body::before {
   #franknamae{
 	padding:0 100px;
   }
+  .pamatuk-tengah-on-mobile{
+	  text-align:center;
+  }
 }
 
 @media (min-width: 1024px) {
