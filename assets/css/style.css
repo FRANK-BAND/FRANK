@@ -37,7 +37,11 @@ body::before {
 	padding:0 100px;
   }
   .pamatuk-tengah-on-mobile{
-	  text-align:center;
+	 text-align:center;
+  }
+  
+  #frank-the-title{
+	background-position: center 56% !important;
   }
 }
 
