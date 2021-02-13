@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("../img/bg.webp") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -30,7 +30,7 @@ body::before {
 
 @media only screen and (max-width: 800px) {
   body::before {
-    background: #040404 url("../img/bg_tall.jpg") top right no-repeat;
+    background: #040404 url("../img/bg_tall.webp") top right no-repeat;
 	background-size: 100% auto;
   }
   #franknamae{
